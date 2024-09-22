@@ -1,4 +1,4 @@
-1757. Recyclable and Low Fat Products
+'''1757. Recyclable and Low Fat Products
 Problem Statement:
 Table: Products
 
@@ -43,9 +43,8 @@ Output:
 | 3           |
 +-------------+
 Explanation: Only products 1 and 3 are both low fat and recyclable.
-
 Solution :
-
+'''
 /* Write your T-SQL query statement below */
 Select product_id 
 from Products
